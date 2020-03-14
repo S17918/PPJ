@@ -37,5 +37,6 @@ public class Zadanie_2 {
             System.out.println("Podana liczba nie mieści się w zbiorze C");
         }
 
+        scan.close();
     }
 }

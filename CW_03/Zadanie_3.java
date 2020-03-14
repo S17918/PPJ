@@ -22,5 +22,6 @@ public class Zadanie_3 {
             System.out.println("Liczba nie pasuje do żadnego zbioru");
         }
         
+        scan.close();
     }
 }

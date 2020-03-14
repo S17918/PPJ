@@ -16,5 +16,7 @@ public class Program1{
         int StudentID = scan.nextInt();
 
         System.out.println("Hello S"+StudentID);
+
+        scan.close();
     }
 }
