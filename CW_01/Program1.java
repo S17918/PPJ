@@ -7,10 +7,14 @@ public class Program1{
 
         System.out.println("Hello World");
 
+        /*
+        
         boolean bool = true;
         int x = 25;
         double y = 5.43;
         char c = 'h';
+        
+        */
 
         Scanner scan = new Scanner(System.in);
         int StudentID = scan.nextInt();
